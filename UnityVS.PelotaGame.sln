@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PelotaGame.CSharp", "UnityVS.PelotaGame.CSharp.csproj", "{5B626D90-7CFF-F8A6-A8E9-977FAAD7F1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PelotaGame.CSharp.Plugins", "UnityVS.PelotaGame.CSharp.Plugins.csproj", "{35C8453D-F231-04EF-B487-A9BF5E81D228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PelotaGame.CSharp.Editor", "UnityVS.PelotaGame.CSharp.Editor.csproj", "{CECDF996-4AA8-EBC0-8AFE-F38A90ACD85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B626D90-7CFF-F8A6-A8E9-977FAAD7F1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B626D90-7CFF-F8A6-A8E9-977FAAD7F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B626D90-7CFF-F8A6-A8E9-977FAAD7F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B626D90-7CFF-F8A6-A8E9-977FAAD7F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C8453D-F231-04EF-B487-A9BF5E81D228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C8453D-F231-04EF-B487-A9BF5E81D228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C8453D-F231-04EF-B487-A9BF5E81D228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C8453D-F231-04EF-B487-A9BF5E81D228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECDF996-4AA8-EBC0-8AFE-F38A90ACD85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECDF996-4AA8-EBC0-8AFE-F38A90ACD85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECDF996-4AA8-EBC0-8AFE-F38A90ACD85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECDF996-4AA8-EBC0-8AFE-F38A90ACD85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

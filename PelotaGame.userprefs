@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Escape.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="31" Column="50" />
+      <File FileName="Assets\SmoothFollow3D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadAllLevels.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GridLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Editor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParticleTimeDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Portal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InfoMap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="14" Column="7" />
+      <File FileName="Assets\Scripts\Escape.cs" Line="26" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
